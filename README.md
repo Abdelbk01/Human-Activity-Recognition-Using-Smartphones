@@ -355,4 +355,4 @@ If you want to generate new datasets type I and II statistics and its machine le
 
 - The windowing methods used in the signal processing pipeline differs depending on the type of the data generated. Reports included in this reporsitery provides detailed information about these differences.
 
-Please If you have any ambiguity about any part of this project or just want to have more info about this subject don't hestitate to contact me at: `abdessamad.anass@gmail.com` 
+Please If you have any ambiguity about any part of this project or just want to have more info about this subject don't hestitate to contact me at: `bouchkara.abdelilah@gmail.com` 
